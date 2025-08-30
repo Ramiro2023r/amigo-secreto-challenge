@@ -15,7 +15,7 @@ JavaScript: Funcionalidad interactiva para agregar amigos, realizar el sorteo y 
 
 Instalación
 Clona el repositorio:
-git clone https://github.com/tu-usuario/amigosecreto.git
+git clone https://github.com/Ramiro2023r/amigo-secreto-challenge.git
 
 Abre el proyecto:
 Navega a la carpeta del proyecto clonado.
